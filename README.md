@@ -30,7 +30,7 @@ To get a local copy of the repository please run the following commands on your 
 
 ##    Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are always welcome!
 
 ## Show your support
 
